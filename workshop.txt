@@ -1,0 +1,46 @@
+version=1
+id=2423906082
+title=Bushcraft Gear - Tools
+description=[b]Adds 6 new vanilla friendly weapons to your world:[/b]
+description=- Hand Hatchet
+description=- Splitting Axe
+description=- Cheap Survival Knife
+description=- Survival Knife
+description=- Kukri Machete
+description=- Rancher Machete
+description=(Default weapons has not been replaced, they are still in the game)
+description=
+description=Every weapon/tool has different states to make them suite to different combat styles.
+description=The "Hand hatchet" for example is a shorter hand axe which is quicker and more accurate (slightly higher crit and attack speed) than the default handaxe, but has a shorter range and deals less damage to zombies and doors.
+description=
+description=Feel free to leave feedback to the drop chances and stats. :)
+description=
+description=Credits to [url=steamcommunity.com/id/heafoxyz/myworkshopfiles/?appid=108600]Hea[/url] for creating the russian translation and helping out with some balancing! Thanks!
+description=
+description=Credits to [url=steamcommunity.com/profiles/76561198010825091]Stonechild[/url]  for updating the loot distribution to the new system! Thank you!
+description=
+description=Credits to [url=https://steamcommunity.com/id/Arkorinho/myworkshopfiles/] ?Arko Piktuviry? [/url] for creating the spanish translation! Thanks!
+description=
+description=[h1] [b]FAQ:[/b][/h1]
+description=[b]Will this mod change the overall weapon count?[/b]
+description=Yes and no.
+description=Weapons attached in zombies are as rare as before since they share one loot table with the default weapons.
+description=But since the new weapons have been added to several containers it might increase the overall weapons in the world.
+description=
+description=[b]Will this mod work with a existing savegame?[/b]
+description=It should, but you may wont find them in already discovered loot places.
+description=Its usually better to start a new savegame with new mods.
+description=
+description= [b]Which game version works with this mod?[/b]
+description=I have tested it with game version 41.71
+description=
+description= [b]Do you take comission for new weapons?[/b]
+description=It depents.
+description=If i like a idea or weapon i might add it if i want to play with it, but mostly the anwser is: no
+description=
+description=[b]Am i allowed to use this mod in a Server mod pack?[/b]
+description=Yes
+description=
+description=[url=https://ko-fi.com/scavengersmods][img]https://i.imgur.com/k8tvuaC.png[/img][/url]
+tags=Build 41;Weapons
+visibility=public
